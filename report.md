@@ -70,15 +70,3 @@ As $p$ scales, the $O(\sqrt{p})$ pathing of the Mesh exponentially outpaces the 
    ```
 3. **Public Deployment:** Navigate to your Vercel or Netlify dashboard. Add a new site, choose "Import from GitHub", select the repo, and hit **Deploy**. Due to the dependency-free structure, it will map `index.html` to the Edge network in under 2 seconds.
 
-## 6. Screenshots
-
-*(Instructions: Take the screenshots of the live URL displaying the visualizer locally or via URL, and paste them here before generating the PDF).*
-
-**Figure A: Initial State (Live deployment URL visible)**
-`[Paste Screenshot Here]`
-
-**Figure B: Mid-Animation (After Stage 1 Row Shift)**
-`[Paste Screenshot Here]`
-
-**Figure C: Final State (After Stage 2 Col Shift)**
-`[Paste Screenshot Here]`
