@@ -1,0 +1,12 @@
+{
+  "name": "mesh-shift-visualizer",
+  "version": "1.0.0",
+  "description": "Mesh Circular Shift Visualizer",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "python -m http.server 8000"
+  },
+  "keywords": ["mesh", "parallel", "circular-shift"],
+  "author": "",
+  "license": "ISC"
+}
