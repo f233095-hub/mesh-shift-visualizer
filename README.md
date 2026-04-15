@@ -39,4 +39,4 @@ This application is purely static (`html`, `css`, `js`). It is incredibly easy t
 6. Click **Deploy**. Your Vercel/Netlify project will be live in seconds.
 
 ## Live URL
-[Insert your Deployment URL here before submitting]
+https://superb-swan-8e6870.netlify.app/
